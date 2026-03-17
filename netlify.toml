@@ -5,7 +5,7 @@
   command = "npm run build"
 
 [build.environment]
-  NODE_VERSION = "18"
+  NODE_VERSION = "20.19.0"
 
 # 重定向规则（SPA 路由支持）
 [[redirects]]
