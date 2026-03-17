@@ -1,0 +1,5 @@
+{
+  "name": "Markdown to Image Converter",
+  "description": "A web application that converts Markdown text into a rendered image.",
+  "requestFramePermissions": []
+}
